@@ -45,4 +45,16 @@ qingtian1771@gmail.com
    今天:看github.
    问题:
 
-2015
+20150815 SAT
+田:
+郭:
+赵:昨天:GitHub入门实践到第四章.
+   今天:http://pcottle.github.io/learnGitBranching/ 教程第一部分
+   问题:无
+
+20150816 SUN
+田:
+郭:
+赵:昨天:网页git教程第一部分.
+   今天:第二部分.
+   问题:无
