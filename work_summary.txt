@@ -1,7 +1,7 @@
 qingtian1771@gmail.com
 
 
-20150728
+20150728 TUE
 田:昨天:测试roscore分布式运行,存在问题,可以运行.
    今天:rosbyexample 第七章;给郭老师讲ros基本概念.
    问题:无
@@ -12,7 +12,7 @@ qingtian1771@gmail.com
    今天:看github教程.
    问题:看github.
 
-20150729
+20150729 WED
 田:昨天:
    今天:看rbx1第七章,tf.
    问题:微信群讨论.
@@ -23,7 +23,7 @@ qingtian1771@gmail.com
    今天:看git pro
    问题:
 
-20150730
+20150730 THU
 田:昨天:第七章,接待,
    今天:第七章.
    问题:无.
@@ -34,7 +34,7 @@ qingtian1771@gmail.com
    今天:继续看git.
    问题:
 
-20150806
+20150806 THU
 田:昨天:去开发区参观,看完第7章,tf看完.
    今天:看第8章,计划看完第8章.
    问题:
@@ -43,6 +43,15 @@ qingtian1771@gmail.com
    问题:
 赵:昨天:看progit.
    今天:看github.
+   问题:
+
+20150810 MON
+田:昨天:
+   今天:测试map,开发板安装ubuntu
+   问题:
+郭:
+赵:昨天:
+   今天:progit
    问题:
 
 20150815 SAT
