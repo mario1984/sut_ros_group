@@ -71,6 +71,6 @@ qingtian1771@gmail.com
 20150817 MON
 田:
 郭:
-赵:昨天:trygit完成,pcottle第二部分部分.
+赵:昨天:trygit完成,pcottle第二部分一部分.
    今天:pcottle第二部分.GitHub教程.
    问题:pcottle第二部分比较复杂.
