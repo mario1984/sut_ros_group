@@ -67,3 +67,10 @@ qingtian1771@gmail.com
 赵:昨天:网页git教程第一部分.
    今天:第二部分.tryGit网站教程.
    问题:无
+
+20150817 MON
+田:
+郭:
+赵:昨天:trygit完成,pcottle第二部分部分.
+   今天:pcottle第二部分.GitHub教程.
+   问题:pcottle第二部分比较复杂.
