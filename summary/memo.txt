@@ -1,0 +1,10 @@
+1.ROS书籍:
+	ROS by Example_1 (indigo).
+	ROS by Example_2 (indigo).
+	Learning Robotics Using Python.	
+
+2.git书籍与网站:
+	Pro Git.
+	GitHub入门与实践.
+	http://pcottle.github.io/learnGitBranching/
+        http://try.github.io/
