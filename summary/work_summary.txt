@@ -93,7 +93,7 @@ qingtian1771@gmail.com
 田:
 郭:
 赵:昨天:pcottle稍后看.
-   今天:测试pull request.
+   今天:测试pull request.编辑文件memo,tutorial.
    问题:
 
 

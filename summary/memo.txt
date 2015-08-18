@@ -1,10 +1,14 @@
-1.ROS书籍:
+使用版本:Ubuntu 14.04;
+         ROS indigo.
+
+1.ROS书籍与网站:
+	rog.org教程.
 	ROS by Example_1 (indigo).
 	ROS by Example_2 (indigo).
 	Learning Robotics Using Python.	
 
-2.git书籍与网站:
+2.Git书籍与网站:
 	Pro Git.
 	GitHub入门与实践.
 	http://pcottle.github.io/learnGitBranching/
-        http://try.github.io/
+        http://try.github.io/	

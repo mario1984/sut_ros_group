@@ -1,0 +1,41 @@
+常用命令
+=======================================
+
+1.turtlebot控制.
+
+  (1).键盘控制
+	roslaunch turtlebot_bringup minimal.launch
+	roslaunch turtlebot_teleop keyboard_teleop.launch
+ 
+  (2).rviz查看机器人的状态
+	roslaunch turtlebot_bringup minimal.launch
+ 
+	export TURTLEBOT_3D_SENSOR=kinect
+	roslaunch turtlebot_bringup 3dsensor.launch
+
+	roslaunch turtlebot_rviz_launchers view_robot.launch
+
+  (3).跟随
+	roslaunch turtlebot_bringup minimal.launch
+
+	export TURTLEBOT_3D_SENSOR=kinect
+	roslaunch turtlebot_follower follower.launch
+
+  (4).gazebo
+	roslaunch turtlebot_gazebo turtlebot_world.launch
+            select a model from Insert(http://gazebosim.org/models/)
+ 
+	roslaunch turtlebot_teleop keyboard_teleop.launch
+
+	export TURTLEBOT_3D_SENSOR=kinect
+	roslaunch turtlebot_rviz_launchers view_robot.launch
+
+=======================================
+
+2.GitHub教程.
+
+ 1.创建自己的 repository.
+
+  (1).点击"New Repository"按钮创建repositiry.
+  (2).键入"repo name"和描述.其他选项保持默认值.
+  (3).
