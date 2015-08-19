@@ -96,4 +96,9 @@ qingtian1771@gmail.com
    今天:测试pull request.编辑文件memo,tutorial.
    问题:
 
-
+20150819 WED
+田:
+郭:
+赵:昨天:编辑文件.
+   今天:学习vim编辑器.
+   问题:
