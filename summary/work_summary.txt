@@ -100,5 +100,5 @@ qingtian1771@gmail.com
 田:
 郭:
 赵:昨天:编辑文件.
-   今天:学习vim编辑器.
+   今天:github.学习vim编辑器.
    问题:
