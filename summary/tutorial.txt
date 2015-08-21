@@ -34,7 +34,7 @@
 
 2.GitHub教程.
 
- 1.创建自己的 repository.
+ <1>.创建自己的 repository.
 
   (1).点击"New Repository"按钮创建repository.
   (2).键入仓库名称和描述.其他选项保持默认值.(eg: git_tutorial)
@@ -42,4 +42,19 @@
   (4).$ cd git_tutorial
       $ git init
   (5).$ touch README.md
-  (6).$ 
+  (6).$
+ 
+ <2>.Fork一个repo.
+
+  (1).在项目页面点击fork按钮.
+  (2).复制需要克隆的url.
+  (3).使用git clone把url克隆到本地目录里.
+  (4).在github网页ssh key设置里添加密钥.
+  (5).配置本地.git/目录下config文件.
+  (6).修改文档.(vim或emacs等编辑器).
+  (7).$ git diff (查看文件变化).
+  (8).$ git add [修改的文件] ;
+      或者更改较多文件时使用 $ git add --all ;
+  (9).$ git commit -m "---" ; (引号中填写本次文件的变化)
+ (10).$ git push ; (同步至github)
+ (11).$ git log ; (查看日志)
