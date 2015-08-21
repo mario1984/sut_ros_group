@@ -56,5 +56,5 @@
   (8).$ git add [修改的文件] ;
       或者更改较多文件时使用 $ git add --all ;
   (9).$ git commit -m "---" ; (引号中填写本次文件的变化)
- (10).$ git push ; (同步至github)
+ (10).$ git push ; (同步至github,默认要求输入github账号密码)
  (11).$ git log ; (查看日志)
