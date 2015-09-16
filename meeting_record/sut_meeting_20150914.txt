@@ -1,0 +1,25 @@
+20150914 MON
+
+主题:ROS基础教程.
+主讲人:田老师
+参与人:郭老师,邵岩,沈一鸣,赵希宇.
+内容纪要:
+
+1:: "setup your keys" ros安装时作用.
+    .bashrc 存放source文件.
+2:: roscd可以cd到包,不可以cd到自建的包.
+3:: source echo "xxx" >> .bashrc 永久添加.
+    $cd ~/catkin_ws/ ;
+    $catkin_make.
+4:: .*sh
+5:: 环境变量 echo $PATH
+6:: ROS_PACKAGE_$PATH 在哪个文件定义?
+7:: beginner_tutorials 创建一个空的frame,在不建立空间直接创建包(src中).
+8:: 移动包到其他目录或复制到其他目录是否可行,有和影响?
+9:: xml文件;ping工具;$PS
+10:: rosnode info xxx
+11:: roscore 打开 rosrun turtlesim和rosrun teleop,但不运行-->然后关闭roscore,两者时候通讯?12:: rostopic pub "+"与"-"两方向,默认速度,频率相同,叠加后仍然慢速移动是否是发布频率原因?或     者是速度不同的原因?
+13:: rostopic plot
+     rostopic type /turtle/pose | rosmsg show.
+14:: topic turtle/pose github
+     rosrun tutorials /src/turtle.cpp
